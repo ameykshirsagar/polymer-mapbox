@@ -1,6 +1,11 @@
-# \<mapbox-gl\>
+# \<polymer-mapbox\>
 
 Mapbox Elements for Polymer 3
+
+This is a rewrite of [mapbox-gl](https://www.webcomponents.org/element/PolymerVis/mapbox-gl) library which was originally written for Polymer v2. However to make it work on Polymer v3, I had to port the library to Polymer v3 conventions. There could be certain bugs in this library and a pull request or any suggestion is most welcome
+
+Cheers!!!
+
 
 ## Install the Polymer-CLI
 
